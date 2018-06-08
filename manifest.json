@@ -14,7 +14,9 @@
       "*://*/job/*/*/console",
       "*://*/view/*/job/*/*/console",
       "*://*/job/*/*/consoleFull",
-      "*://*/view/*/job/*/*/consoleFull"
+      "*://*/view/*/job/*/*/consoleFull",
+      "*://*/job/*/*/execution/node/*/log/*",
+      "*://*/view/*/job/*/*/execution/node/*/log/*"
     ],
     "run_at": "document_end",
     "css": ["css/jenkins-terminal-colors.css", "css/jenkins-terminal-colors-characters.css"],
